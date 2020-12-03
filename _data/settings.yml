@@ -7,8 +7,8 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'TaskTool', folder: 'pages', file: 'task-tool.html'}
-- {name: 'myTeams', folder: 'pages', file: 'myTeams.html'}
+- {name: 'TaskTool', folder: 'tasktool', file: 'task-tool.html'}
+- {name: 'myTeams', folder: 'myteams', file: 'myTeams.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
