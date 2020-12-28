@@ -3,4 +3,6 @@ layout: misc
 title: About
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}.
+Supreme Projects is a digital product agency offering custom software, mobile, and web application development consulting. We turn ideas into fantastic digital products, designing apps and systems people love to use. 
+
+We provide exceptional professional services, finding digital solutions for human problems. Focussing on strategy, increased performance & efficiency, user experience and design, to bring brilliant digital ideas to life! 
