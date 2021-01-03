@@ -1,4 +1,5 @@
 <footer class="footer">
+  {% include cookie-consent.html %}
   {% for item in site.data.settings.social %}
     <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
   {% endfor %}
