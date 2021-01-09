@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'G-7PJ0C9SGMZ'
+google-ID: 'UA-168794718-2'
 
 menu:
 - {name: 'TaskTool', folder: 'tasktool', file: 'task-tool.html'}
