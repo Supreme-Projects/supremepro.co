@@ -18,6 +18,12 @@
   <!-- RSS-v2.0
   <link href="{{ site.github.url }}/rss-feed.xml" type="application/rss+xml" rel="alternate" title="{{ site.title }} | {{ site.description }}"/>
   //-->
+  {% include cookie-helper.html.liquid %}
+  <script>
+    if(readCookie('cookie-notice-dismissed')==='true') {
+      {% include ga.js %}
+    }
+  </script>
 
 
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Source+Code+Pro">
