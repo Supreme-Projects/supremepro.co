@@ -6,3 +6,5 @@ _site
 .ruby-gemset
 .ruby-version
 Makefile
+vendor
+docker-compose.yml
